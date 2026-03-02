@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
 <h3 align="center">Crafting Future-Ready Software with MEAN, MERN, and React Native.</h3>
 
-<p align="left">A visionary and passionate professional with two years of hands-on experience in both MEAN and MERN stacks, as well as in developing mobile applications using React Native. My career is dedicated to mastering technological solutions and bringing innovative ideas to life through best software development practices. My portfolio highlights a variety of projects where I have successfully transformed complex requirements into functional software applications. As I continue to advance my skills in software development, I seek opportunities that challenge me and expand my knowledge, especially in cutting-edge environments that leverage full-stack and mobile technologies
+<p align="left">I’m a Senior Angular developer with 4+ years of experience building and maintaining scalable, real-world web applications.
+
+Over the years, I’ve worked on enterprise dashboards, reporting systems, admin portals, and performance-critical applications using Angular, TypeScript, and backend technologies.
+
+Recently, I’ve been helping businesses go a step further — not just building software, but reducing manual work through AI-powered automation and smart reporting. This includes automating repetitive workflows, customer queries, internal reports, and data-driven dashboards that actually get used.
+
+I focus on practical solutions, not hype — integrating AI into existing systems in a way that saves time, improves visibility, and scales with the business.
+
+What I help with:
+• Angular & full-stack application development
+• System upgrades, performance optimization & code cleanup
+• Custom dashboards & reporting automation
+• AI-based workflow and customer support automation
+
+If you’re looking to modernize your application, improve efficiency, or automate repetitive processes, feel free to connect.
     <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 </p>
 
