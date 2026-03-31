@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
-<h3 align="center">Crafting Future-Ready Software with MEAN, MERN, and React Native.</h3>
+<h3 align="center">Senior Angular Developer | Full-Stack Engineer |React | Next | Angular | Node | Python | </h3>
 
 <p align="left">I’m a Senior Angular developer with 4+ years of experience building and maintaining scalable, real-world web applications.
 
@@ -16,7 +16,6 @@ What I help with:
 • AI-based workflow and customer support automation
 
 If you’re looking to modernize your application, improve efficiency, or automate repetitive processes, feel free to connect.
-    <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 </p>
 
 
