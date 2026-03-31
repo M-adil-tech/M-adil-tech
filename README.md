@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adil</h1>
 <h3 align="center">Senior Angular Developer | Full-Stack Engineer |React | Next | Angular | Node | Python | </h3>
 
-<p align="left">I’m a Senior Angular developer with 4+ years of experience building and maintaining scalable, real-world web applications.
-
-Over the years, I’ve worked on enterprise dashboards, reporting systems, admin portals, and performance-critical applications using Angular, TypeScript, and backend technologies.
-
-Recently, I’ve been helping businesses go a step further — not just building software, but reducing manual work through AI-powered automation and smart reporting. This includes automating repetitive workflows, customer queries, internal reports, and data-driven dashboards that actually get used.
-
+<p align="left">I’m a Senior Angular developer with 4+ years of experience building and maintaining scalable, real-world web applications.Over the years, I’ve worked on enterprise dashboards, reporting systems, FinTech Application and admin portals, and performance-critical applications using Angular, TypeScript, and backend technologies.Recently, I’ve been helping businesses go a step further — not just building software, but reducing manual work through AI-powered automation and smart reporting. This includes automating repetitive workflows, customer queries, internal reports, and data-driven dashboards that actually get used.
 I focus on practical solutions, not hype — integrating AI into existing systems in a way that saves time, improves visibility, and scales with the business.
-
 What I help with:
 • Angular & full-stack application development
 • System upgrades, performance optimization & code cleanup
 • Custom dashboards & reporting automation
 • AI-based workflow and customer support automation
-
 If you’re looking to modernize your application, improve efficiency, or automate repetitive processes, feel free to connect.
 </p>
 
