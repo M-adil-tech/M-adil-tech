@@ -32,10 +32,6 @@ If you’re looking to modernize your application, improve efficiency, or automa
 <hr width="100%">
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-adil-tech&show_icons=true&locale=en&layout=compact" alt="m-adil-tech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-adil-tech&show_icons=true&locale=en" alt="m-adil-tech" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-adil-tech&" alt="m-adil-tech" /></p>
 </div>
 
